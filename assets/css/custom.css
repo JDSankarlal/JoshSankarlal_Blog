@@ -1,0 +1,11 @@
+#sidebar #avatar {
+    box-shadow: none;
+    width: 11rem; /* 176 px */
+    height: 7rem; /* 112 px */
+    border-radius: 0 !important;
+  }
+  
+  #sidebar #avatar img {
+    width: 11rem;
+    height: 7rem;
+  }

@@ -2,7 +2,7 @@
 title: An Open Letter to Windsor's MPPs
 date: 2025-04-01 08:00:00 
 categories: [Politics, Provincial]
-tags: [Advocacy, OSAP]     # TAG names should always be lowercase
+tags: [advocacy, osap]     # TAG names should always be lowercase
 ---
 ## Dear MPPs Dowie and Leardi, ##
 

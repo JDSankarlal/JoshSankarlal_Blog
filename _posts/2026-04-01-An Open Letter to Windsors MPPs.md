@@ -5,6 +5,9 @@ categories: [Politics, Provincial]
 tags: [advocacy, osap]     # TAG names should always be lowercase
 author: JSankarlal
 ---
+> **Send a version of this letter yourself using [this link](https://win.newmode.net/joshsankarlal/osap)**
+{: .prompt-info}
+
 ## Dear MPPs Dowie and Leardi, ##
 
 **I am writing to express my profound dissatisfaction in your representation of me at the Legislature on March 31st.**
